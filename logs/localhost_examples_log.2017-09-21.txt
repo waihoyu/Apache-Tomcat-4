@@ -1,0 +1,660 @@
+2017-09-21 17:13:40 StandardContext[/examples]: Resources start failed:
+java.lang.IllegalArgumentException: Document base D:\111\apachetomcat4\webapps\examples does not exist or is not a readable directory
+	at org.apache.naming.resources.FileDirContext.setDocBase(FileDirContext.java:193)
+	at org.apache.catalina.core.StandardContext.resourcesStart(StandardContext.java:3343)
+	at org.apache.catalina.core.StandardContext.start(StandardContext.java:3473)
+	at org.apache.catalina.core.ContainerBase.start(ContainerBase.java:1188)
+	at org.apache.catalina.core.StandardHost.start(StandardHost.java:738)
+	at org.apache.catalina.core.ContainerBase.start(ContainerBase.java:1188)
+	at org.apache.catalina.core.StandardEngine.start(StandardEngine.java:347)
+	at org.apache.catalina.core.StandardService.start(StandardService.java:497)
+	at org.apache.catalina.core.StandardServer.start(StandardServer.java:2190)
+	at org.apache.catalina.startup.Catalina.start(Catalina.java:512)
+	at org.apache.catalina.startup.Catalina.execute(Catalina.java:400)
+	at org.apache.catalina.startup.Catalina.process(Catalina.java:180)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:39)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:25)
+	at java.lang.reflect.Method.invoke(Method.java:585)
+	at org.apache.catalina.startup.Bootstrap.main(Bootstrap.java:203)
+
+2017-09-21 17:13:40 StandardContext[/examples]: Context startup failed due to previous errors
+2017-09-21 17:13:40 StandardContext[/examples]: Exception during cleanup after start failed
+LifecycleException:  Container StandardContext[/examples] has not been started
+	at org.apache.catalina.core.StandardContext.stop(StandardContext.java:3644)
+	at org.apache.catalina.core.StandardContext.start(StandardContext.java:3622)
+	at org.apache.catalina.core.ContainerBase.start(ContainerBase.java:1188)
+	at org.apache.catalina.core.StandardHost.start(StandardHost.java:738)
+	at org.apache.catalina.core.ContainerBase.start(ContainerBase.java:1188)
+	at org.apache.catalina.core.StandardEngine.start(StandardEngine.java:347)
+	at org.apache.catalina.core.StandardService.start(StandardService.java:497)
+	at org.apache.catalina.core.StandardServer.start(StandardServer.java:2190)
+	at org.apache.catalina.startup.Catalina.start(Catalina.java:512)
+	at org.apache.catalina.startup.Catalina.execute(Catalina.java:400)
+	at org.apache.catalina.startup.Catalina.process(Catalina.java:180)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:39)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:25)
+	at java.lang.reflect.Method.invoke(Method.java:585)
+	at org.apache.catalina.startup.Bootstrap.main(Bootstrap.java:203)
+
+2017-09-21 17:20:19 StandardContext[/examples]: Resources start failed:
+java.lang.IllegalArgumentException: Document base D:\111\apachetomcat4\webapps\examples does not exist or is not a readable directory
+	at org.apache.naming.resources.FileDirContext.setDocBase(FileDirContext.java:193)
+	at org.apache.catalina.core.StandardContext.resourcesStart(StandardContext.java:3343)
+	at org.apache.catalina.core.StandardContext.start(StandardContext.java:3473)
+	at org.apache.catalina.core.ContainerBase.start(ContainerBase.java:1188)
+	at org.apache.catalina.core.StandardHost.start(StandardHost.java:738)
+	at org.apache.catalina.core.ContainerBase.start(ContainerBase.java:1188)
+	at org.apache.catalina.core.StandardEngine.start(StandardEngine.java:347)
+	at org.apache.catalina.core.StandardService.start(StandardService.java:497)
+	at org.apache.catalina.core.StandardServer.start(StandardServer.java:2190)
+	at org.apache.catalina.startup.Catalina.start(Catalina.java:512)
+	at org.apache.catalina.startup.Catalina.execute(Catalina.java:400)
+	at org.apache.catalina.startup.Catalina.process(Catalina.java:180)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:39)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:25)
+	at java.lang.reflect.Method.invoke(Method.java:585)
+	at org.apache.catalina.startup.Bootstrap.main(Bootstrap.java:203)
+
+2017-09-21 17:20:19 StandardContext[/examples]: Context startup failed due to previous errors
+2017-09-21 17:20:19 StandardContext[/examples]: Exception during cleanup after start failed
+LifecycleException:  Container StandardContext[/examples] has not been started
+	at org.apache.catalina.core.StandardContext.stop(StandardContext.java:3644)
+	at org.apache.catalina.core.StandardContext.start(StandardContext.java:3622)
+	at org.apache.catalina.core.ContainerBase.start(ContainerBase.java:1188)
+	at org.apache.catalina.core.StandardHost.start(StandardHost.java:738)
+	at org.apache.catalina.core.ContainerBase.start(ContainerBase.java:1188)
+	at org.apache.catalina.core.StandardEngine.start(StandardEngine.java:347)
+	at org.apache.catalina.core.StandardService.start(StandardService.java:497)
+	at org.apache.catalina.core.StandardServer.start(StandardServer.java:2190)
+	at org.apache.catalina.startup.Catalina.start(Catalina.java:512)
+	at org.apache.catalina.startup.Catalina.execute(Catalina.java:400)
+	at org.apache.catalina.startup.Catalina.process(Catalina.java:180)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:39)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:25)
+	at java.lang.reflect.Method.invoke(Method.java:585)
+	at org.apache.catalina.startup.Bootstrap.main(Bootstrap.java:203)
+
+2017-09-21 17:20:32 StandardContext[/examples]: Resources start failed:
+java.lang.IllegalArgumentException: Document base D:\111\apachetomcat4\webapps\examples does not exist or is not a readable directory
+	at org.apache.naming.resources.FileDirContext.setDocBase(FileDirContext.java:193)
+	at org.apache.catalina.core.StandardContext.resourcesStart(StandardContext.java:3343)
+	at org.apache.catalina.core.StandardContext.start(StandardContext.java:3473)
+	at org.apache.catalina.core.ContainerBase.start(ContainerBase.java:1188)
+	at org.apache.catalina.core.StandardHost.start(StandardHost.java:738)
+	at org.apache.catalina.core.ContainerBase.start(ContainerBase.java:1188)
+	at org.apache.catalina.core.StandardEngine.start(StandardEngine.java:347)
+	at org.apache.catalina.core.StandardService.start(StandardService.java:497)
+	at org.apache.catalina.core.StandardServer.start(StandardServer.java:2190)
+	at org.apache.catalina.startup.Catalina.start(Catalina.java:512)
+	at org.apache.catalina.startup.Catalina.execute(Catalina.java:400)
+	at org.apache.catalina.startup.Catalina.process(Catalina.java:180)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:39)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:25)
+	at java.lang.reflect.Method.invoke(Method.java:585)
+	at org.apache.catalina.startup.Bootstrap.main(Bootstrap.java:203)
+
+2017-09-21 17:20:32 StandardContext[/examples]: Context startup failed due to previous errors
+2017-09-21 17:20:32 StandardContext[/examples]: Exception during cleanup after start failed
+LifecycleException:  Container StandardContext[/examples] has not been started
+	at org.apache.catalina.core.StandardContext.stop(StandardContext.java:3644)
+	at org.apache.catalina.core.StandardContext.start(StandardContext.java:3622)
+	at org.apache.catalina.core.ContainerBase.start(ContainerBase.java:1188)
+	at org.apache.catalina.core.StandardHost.start(StandardHost.java:738)
+	at org.apache.catalina.core.ContainerBase.start(ContainerBase.java:1188)
+	at org.apache.catalina.core.StandardEngine.start(StandardEngine.java:347)
+	at org.apache.catalina.core.StandardService.start(StandardService.java:497)
+	at org.apache.catalina.core.StandardServer.start(StandardServer.java:2190)
+	at org.apache.catalina.startup.Catalina.start(Catalina.java:512)
+	at org.apache.catalina.startup.Catalina.execute(Catalina.java:400)
+	at org.apache.catalina.startup.Catalina.process(Catalina.java:180)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:39)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:25)
+	at java.lang.reflect.Method.invoke(Method.java:585)
+	at org.apache.catalina.startup.Bootstrap.main(Bootstrap.java:203)
+
+2017-09-21 17:23:23 StandardContext[/examples]: Resources start failed:
+java.lang.IllegalArgumentException: Document base D:\111\apachetomcat4\webapps\examples does not exist or is not a readable directory
+	at org.apache.naming.resources.FileDirContext.setDocBase(FileDirContext.java:193)
+	at org.apache.catalina.core.StandardContext.resourcesStart(StandardContext.java:3343)
+	at org.apache.catalina.core.StandardContext.start(StandardContext.java:3473)
+	at org.apache.catalina.core.ContainerBase.start(ContainerBase.java:1188)
+	at org.apache.catalina.core.StandardHost.start(StandardHost.java:738)
+	at org.apache.catalina.core.ContainerBase.start(ContainerBase.java:1188)
+	at org.apache.catalina.core.StandardEngine.start(StandardEngine.java:347)
+	at org.apache.catalina.core.StandardService.start(StandardService.java:497)
+	at org.apache.catalina.core.StandardServer.start(StandardServer.java:2190)
+	at org.apache.catalina.startup.Catalina.start(Catalina.java:512)
+	at org.apache.catalina.startup.Catalina.execute(Catalina.java:400)
+	at org.apache.catalina.startup.Catalina.process(Catalina.java:180)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:39)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:25)
+	at java.lang.reflect.Method.invoke(Method.java:585)
+	at org.apache.catalina.startup.Bootstrap.main(Bootstrap.java:203)
+
+2017-09-21 17:23:23 StandardContext[/examples]: Context startup failed due to previous errors
+2017-09-21 17:23:23 StandardContext[/examples]: Exception during cleanup after start failed
+LifecycleException:  Container StandardContext[/examples] has not been started
+	at org.apache.catalina.core.StandardContext.stop(StandardContext.java:3644)
+	at org.apache.catalina.core.StandardContext.start(StandardContext.java:3622)
+	at org.apache.catalina.core.ContainerBase.start(ContainerBase.java:1188)
+	at org.apache.catalina.core.StandardHost.start(StandardHost.java:738)
+	at org.apache.catalina.core.ContainerBase.start(ContainerBase.java:1188)
+	at org.apache.catalina.core.StandardEngine.start(StandardEngine.java:347)
+	at org.apache.catalina.core.StandardService.start(StandardService.java:497)
+	at org.apache.catalina.core.StandardServer.start(StandardServer.java:2190)
+	at org.apache.catalina.startup.Catalina.start(Catalina.java:512)
+	at org.apache.catalina.startup.Catalina.execute(Catalina.java:400)
+	at org.apache.catalina.startup.Catalina.process(Catalina.java:180)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:39)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:25)
+	at java.lang.reflect.Method.invoke(Method.java:585)
+	at org.apache.catalina.startup.Bootstrap.main(Bootstrap.java:203)
+
+2017-09-21 17:23:36 StandardContext[/examples]: Resources start failed:
+java.lang.IllegalArgumentException: Document base D:\111\apachetomcat4\webapps\examples does not exist or is not a readable directory
+	at org.apache.naming.resources.FileDirContext.setDocBase(FileDirContext.java:193)
+	at org.apache.catalina.core.StandardContext.resourcesStart(StandardContext.java:3343)
+	at org.apache.catalina.core.StandardContext.start(StandardContext.java:3473)
+	at org.apache.catalina.core.ContainerBase.start(ContainerBase.java:1188)
+	at org.apache.catalina.core.StandardHost.start(StandardHost.java:738)
+	at org.apache.catalina.core.ContainerBase.start(ContainerBase.java:1188)
+	at org.apache.catalina.core.StandardEngine.start(StandardEngine.java:347)
+	at org.apache.catalina.core.StandardService.start(StandardService.java:497)
+	at org.apache.catalina.core.StandardServer.start(StandardServer.java:2190)
+	at org.apache.catalina.startup.Catalina.start(Catalina.java:512)
+	at org.apache.catalina.startup.Catalina.execute(Catalina.java:400)
+	at org.apache.catalina.startup.Catalina.process(Catalina.java:180)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:39)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:25)
+	at java.lang.reflect.Method.invoke(Method.java:585)
+	at org.apache.catalina.startup.Bootstrap.main(Bootstrap.java:203)
+
+2017-09-21 17:23:36 StandardContext[/examples]: Context startup failed due to previous errors
+2017-09-21 17:23:36 StandardContext[/examples]: Exception during cleanup after start failed
+LifecycleException:  Container StandardContext[/examples] has not been started
+	at org.apache.catalina.core.StandardContext.stop(StandardContext.java:3644)
+	at org.apache.catalina.core.StandardContext.start(StandardContext.java:3622)
+	at org.apache.catalina.core.ContainerBase.start(ContainerBase.java:1188)
+	at org.apache.catalina.core.StandardHost.start(StandardHost.java:738)
+	at org.apache.catalina.core.ContainerBase.start(ContainerBase.java:1188)
+	at org.apache.catalina.core.StandardEngine.start(StandardEngine.java:347)
+	at org.apache.catalina.core.StandardService.start(StandardService.java:497)
+	at org.apache.catalina.core.StandardServer.start(StandardServer.java:2190)
+	at org.apache.catalina.startup.Catalina.start(Catalina.java:512)
+	at org.apache.catalina.startup.Catalina.execute(Catalina.java:400)
+	at org.apache.catalina.startup.Catalina.process(Catalina.java:180)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:39)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:25)
+	at java.lang.reflect.Method.invoke(Method.java:585)
+	at org.apache.catalina.startup.Bootstrap.main(Bootstrap.java:203)
+
+2017-09-21 17:23:43 StandardContext[/examples]: Resources start failed:
+java.lang.IllegalArgumentException: Document base D:\111\apachetomcat4\webapps\examples does not exist or is not a readable directory
+	at org.apache.naming.resources.FileDirContext.setDocBase(FileDirContext.java:193)
+	at org.apache.catalina.core.StandardContext.resourcesStart(StandardContext.java:3343)
+	at org.apache.catalina.core.StandardContext.start(StandardContext.java:3473)
+	at org.apache.catalina.core.ContainerBase.start(ContainerBase.java:1188)
+	at org.apache.catalina.core.StandardHost.start(StandardHost.java:738)
+	at org.apache.catalina.core.ContainerBase.start(ContainerBase.java:1188)
+	at org.apache.catalina.core.StandardEngine.start(StandardEngine.java:347)
+	at org.apache.catalina.core.StandardService.start(StandardService.java:497)
+	at org.apache.catalina.core.StandardServer.start(StandardServer.java:2190)
+	at org.apache.catalina.startup.Catalina.start(Catalina.java:512)
+	at org.apache.catalina.startup.Catalina.execute(Catalina.java:400)
+	at org.apache.catalina.startup.Catalina.process(Catalina.java:180)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:39)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:25)
+	at java.lang.reflect.Method.invoke(Method.java:585)
+	at org.apache.catalina.startup.Bootstrap.main(Bootstrap.java:203)
+
+2017-09-21 17:23:43 StandardContext[/examples]: Context startup failed due to previous errors
+2017-09-21 17:23:43 StandardContext[/examples]: Exception during cleanup after start failed
+LifecycleException:  Container StandardContext[/examples] has not been started
+	at org.apache.catalina.core.StandardContext.stop(StandardContext.java:3644)
+	at org.apache.catalina.core.StandardContext.start(StandardContext.java:3622)
+	at org.apache.catalina.core.ContainerBase.start(ContainerBase.java:1188)
+	at org.apache.catalina.core.StandardHost.start(StandardHost.java:738)
+	at org.apache.catalina.core.ContainerBase.start(ContainerBase.java:1188)
+	at org.apache.catalina.core.StandardEngine.start(StandardEngine.java:347)
+	at org.apache.catalina.core.StandardService.start(StandardService.java:497)
+	at org.apache.catalina.core.StandardServer.start(StandardServer.java:2190)
+	at org.apache.catalina.startup.Catalina.start(Catalina.java:512)
+	at org.apache.catalina.startup.Catalina.execute(Catalina.java:400)
+	at org.apache.catalina.startup.Catalina.process(Catalina.java:180)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:39)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:25)
+	at java.lang.reflect.Method.invoke(Method.java:585)
+	at org.apache.catalina.startup.Bootstrap.main(Bootstrap.java:203)
+
+2017-09-21 17:24:19 StandardContext[/examples]: Resources start failed:
+java.lang.IllegalArgumentException: Document base D:\111\apachetomcat4\webapps\examples does not exist or is not a readable directory
+	at org.apache.naming.resources.FileDirContext.setDocBase(FileDirContext.java:193)
+	at org.apache.catalina.core.StandardContext.resourcesStart(StandardContext.java:3343)
+	at org.apache.catalina.core.StandardContext.start(StandardContext.java:3473)
+	at org.apache.catalina.core.ContainerBase.start(ContainerBase.java:1188)
+	at org.apache.catalina.core.StandardHost.start(StandardHost.java:738)
+	at org.apache.catalina.core.ContainerBase.start(ContainerBase.java:1188)
+	at org.apache.catalina.core.StandardEngine.start(StandardEngine.java:347)
+	at org.apache.catalina.core.StandardService.start(StandardService.java:497)
+	at org.apache.catalina.core.StandardServer.start(StandardServer.java:2190)
+	at org.apache.catalina.startup.Catalina.start(Catalina.java:512)
+	at org.apache.catalina.startup.Catalina.execute(Catalina.java:400)
+	at org.apache.catalina.startup.Catalina.process(Catalina.java:180)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:39)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:25)
+	at java.lang.reflect.Method.invoke(Method.java:585)
+	at org.apache.catalina.startup.Bootstrap.main(Bootstrap.java:203)
+
+2017-09-21 17:24:19 StandardContext[/examples]: Context startup failed due to previous errors
+2017-09-21 17:24:19 StandardContext[/examples]: Exception during cleanup after start failed
+LifecycleException:  Container StandardContext[/examples] has not been started
+	at org.apache.catalina.core.StandardContext.stop(StandardContext.java:3644)
+	at org.apache.catalina.core.StandardContext.start(StandardContext.java:3622)
+	at org.apache.catalina.core.ContainerBase.start(ContainerBase.java:1188)
+	at org.apache.catalina.core.StandardHost.start(StandardHost.java:738)
+	at org.apache.catalina.core.ContainerBase.start(ContainerBase.java:1188)
+	at org.apache.catalina.core.StandardEngine.start(StandardEngine.java:347)
+	at org.apache.catalina.core.StandardService.start(StandardService.java:497)
+	at org.apache.catalina.core.StandardServer.start(StandardServer.java:2190)
+	at org.apache.catalina.startup.Catalina.start(Catalina.java:512)
+	at org.apache.catalina.startup.Catalina.execute(Catalina.java:400)
+	at org.apache.catalina.startup.Catalina.process(Catalina.java:180)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:39)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:25)
+	at java.lang.reflect.Method.invoke(Method.java:585)
+	at org.apache.catalina.startup.Bootstrap.main(Bootstrap.java:203)
+
+2017-09-21 17:26:08 StandardContext[/examples]: Resources start failed:
+java.lang.IllegalArgumentException: Document base D:\111\apachetomcat4\webapps\examples does not exist or is not a readable directory
+	at org.apache.naming.resources.FileDirContext.setDocBase(FileDirContext.java:193)
+	at org.apache.catalina.core.StandardContext.resourcesStart(StandardContext.java:3343)
+	at org.apache.catalina.core.StandardContext.start(StandardContext.java:3473)
+	at org.apache.catalina.core.ContainerBase.start(ContainerBase.java:1188)
+	at org.apache.catalina.core.StandardHost.start(StandardHost.java:738)
+	at org.apache.catalina.core.ContainerBase.start(ContainerBase.java:1188)
+	at org.apache.catalina.core.StandardEngine.start(StandardEngine.java:347)
+	at org.apache.catalina.core.StandardService.start(StandardService.java:497)
+	at org.apache.catalina.core.StandardServer.start(StandardServer.java:2190)
+	at org.apache.catalina.startup.Catalina.start(Catalina.java:512)
+	at org.apache.catalina.startup.Catalina.execute(Catalina.java:400)
+	at org.apache.catalina.startup.Catalina.process(Catalina.java:180)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:39)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:25)
+	at java.lang.reflect.Method.invoke(Method.java:585)
+	at org.apache.catalina.startup.Bootstrap.main(Bootstrap.java:203)
+
+2017-09-21 17:26:08 StandardContext[/examples]: Context startup failed due to previous errors
+2017-09-21 17:26:08 StandardContext[/examples]: Exception during cleanup after start failed
+LifecycleException:  Container StandardContext[/examples] has not been started
+	at org.apache.catalina.core.StandardContext.stop(StandardContext.java:3644)
+	at org.apache.catalina.core.StandardContext.start(StandardContext.java:3622)
+	at org.apache.catalina.core.ContainerBase.start(ContainerBase.java:1188)
+	at org.apache.catalina.core.StandardHost.start(StandardHost.java:738)
+	at org.apache.catalina.core.ContainerBase.start(ContainerBase.java:1188)
+	at org.apache.catalina.core.StandardEngine.start(StandardEngine.java:347)
+	at org.apache.catalina.core.StandardService.start(StandardService.java:497)
+	at org.apache.catalina.core.StandardServer.start(StandardServer.java:2190)
+	at org.apache.catalina.startup.Catalina.start(Catalina.java:512)
+	at org.apache.catalina.startup.Catalina.execute(Catalina.java:400)
+	at org.apache.catalina.startup.Catalina.process(Catalina.java:180)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:39)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:25)
+	at java.lang.reflect.Method.invoke(Method.java:585)
+	at org.apache.catalina.startup.Bootstrap.main(Bootstrap.java:203)
+
+2017-09-21 17:29:07 StandardContext[/examples]: Resources start failed:
+java.lang.IllegalArgumentException: Document base D:\111\apachetomcat4\webapps\examples does not exist or is not a readable directory
+	at org.apache.naming.resources.FileDirContext.setDocBase(FileDirContext.java:193)
+	at org.apache.catalina.core.StandardContext.resourcesStart(StandardContext.java:3343)
+	at org.apache.catalina.core.StandardContext.start(StandardContext.java:3473)
+	at org.apache.catalina.core.ContainerBase.start(ContainerBase.java:1188)
+	at org.apache.catalina.core.StandardHost.start(StandardHost.java:738)
+	at org.apache.catalina.core.ContainerBase.start(ContainerBase.java:1188)
+	at org.apache.catalina.core.StandardEngine.start(StandardEngine.java:347)
+	at org.apache.catalina.core.StandardService.start(StandardService.java:497)
+	at org.apache.catalina.core.StandardServer.start(StandardServer.java:2190)
+	at org.apache.catalina.startup.Catalina.start(Catalina.java:512)
+	at org.apache.catalina.startup.Catalina.execute(Catalina.java:400)
+	at org.apache.catalina.startup.Catalina.process(Catalina.java:180)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:39)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:25)
+	at java.lang.reflect.Method.invoke(Method.java:585)
+	at org.apache.catalina.startup.Bootstrap.main(Bootstrap.java:203)
+
+2017-09-21 17:29:07 StandardContext[/examples]: Context startup failed due to previous errors
+2017-09-21 17:29:07 StandardContext[/examples]: Exception during cleanup after start failed
+LifecycleException:  Container StandardContext[/examples] has not been started
+	at org.apache.catalina.core.StandardContext.stop(StandardContext.java:3644)
+	at org.apache.catalina.core.StandardContext.start(StandardContext.java:3622)
+	at org.apache.catalina.core.ContainerBase.start(ContainerBase.java:1188)
+	at org.apache.catalina.core.StandardHost.start(StandardHost.java:738)
+	at org.apache.catalina.core.ContainerBase.start(ContainerBase.java:1188)
+	at org.apache.catalina.core.StandardEngine.start(StandardEngine.java:347)
+	at org.apache.catalina.core.StandardService.start(StandardService.java:497)
+	at org.apache.catalina.core.StandardServer.start(StandardServer.java:2190)
+	at org.apache.catalina.startup.Catalina.start(Catalina.java:512)
+	at org.apache.catalina.startup.Catalina.execute(Catalina.java:400)
+	at org.apache.catalina.startup.Catalina.process(Catalina.java:180)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:39)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:25)
+	at java.lang.reflect.Method.invoke(Method.java:585)
+	at org.apache.catalina.startup.Bootstrap.main(Bootstrap.java:203)
+
+2017-09-21 17:29:47 StandardContext[/examples]: Resources start failed:
+java.lang.IllegalArgumentException: Document base D:\111\apachetomcat4\webapps\examples does not exist or is not a readable directory
+	at org.apache.naming.resources.FileDirContext.setDocBase(FileDirContext.java:193)
+	at org.apache.catalina.core.StandardContext.resourcesStart(StandardContext.java:3343)
+	at org.apache.catalina.core.StandardContext.start(StandardContext.java:3473)
+	at org.apache.catalina.core.ContainerBase.start(ContainerBase.java:1188)
+	at org.apache.catalina.core.StandardHost.start(StandardHost.java:738)
+	at org.apache.catalina.core.ContainerBase.start(ContainerBase.java:1188)
+	at org.apache.catalina.core.StandardEngine.start(StandardEngine.java:347)
+	at org.apache.catalina.core.StandardService.start(StandardService.java:497)
+	at org.apache.catalina.core.StandardServer.start(StandardServer.java:2190)
+	at org.apache.catalina.startup.Catalina.start(Catalina.java:512)
+	at org.apache.catalina.startup.Catalina.execute(Catalina.java:400)
+	at org.apache.catalina.startup.Catalina.process(Catalina.java:180)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:39)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:25)
+	at java.lang.reflect.Method.invoke(Method.java:585)
+	at org.apache.catalina.startup.Bootstrap.main(Bootstrap.java:203)
+
+2017-09-21 17:29:47 StandardContext[/examples]: Context startup failed due to previous errors
+2017-09-21 17:29:47 StandardContext[/examples]: Exception during cleanup after start failed
+LifecycleException:  Container StandardContext[/examples] has not been started
+	at org.apache.catalina.core.StandardContext.stop(StandardContext.java:3644)
+	at org.apache.catalina.core.StandardContext.start(StandardContext.java:3622)
+	at org.apache.catalina.core.ContainerBase.start(ContainerBase.java:1188)
+	at org.apache.catalina.core.StandardHost.start(StandardHost.java:738)
+	at org.apache.catalina.core.ContainerBase.start(ContainerBase.java:1188)
+	at org.apache.catalina.core.StandardEngine.start(StandardEngine.java:347)
+	at org.apache.catalina.core.StandardService.start(StandardService.java:497)
+	at org.apache.catalina.core.StandardServer.start(StandardServer.java:2190)
+	at org.apache.catalina.startup.Catalina.start(Catalina.java:512)
+	at org.apache.catalina.startup.Catalina.execute(Catalina.java:400)
+	at org.apache.catalina.startup.Catalina.process(Catalina.java:180)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:39)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:25)
+	at java.lang.reflect.Method.invoke(Method.java:585)
+	at org.apache.catalina.startup.Bootstrap.main(Bootstrap.java:203)
+
+2017-09-21 17:36:28 StandardContext[/examples]: Resources start failed:
+java.lang.IllegalArgumentException: Document base D:\111\apachetomcat4\webapps\examples does not exist or is not a readable directory
+	at org.apache.naming.resources.FileDirContext.setDocBase(FileDirContext.java:193)
+	at org.apache.catalina.core.StandardContext.resourcesStart(StandardContext.java:3343)
+	at org.apache.catalina.core.StandardContext.start(StandardContext.java:3473)
+	at org.apache.catalina.core.ContainerBase.start(ContainerBase.java:1188)
+	at org.apache.catalina.core.StandardHost.start(StandardHost.java:738)
+	at org.apache.catalina.core.ContainerBase.start(ContainerBase.java:1188)
+	at org.apache.catalina.core.StandardEngine.start(StandardEngine.java:347)
+	at org.apache.catalina.core.StandardService.start(StandardService.java:497)
+	at org.apache.catalina.core.StandardServer.start(StandardServer.java:2190)
+	at org.apache.catalina.startup.Catalina.start(Catalina.java:512)
+	at org.apache.catalina.startup.Catalina.execute(Catalina.java:400)
+	at org.apache.catalina.startup.Catalina.process(Catalina.java:180)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:39)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:25)
+	at java.lang.reflect.Method.invoke(Method.java:585)
+	at org.apache.catalina.startup.Bootstrap.main(Bootstrap.java:203)
+
+2017-09-21 17:36:28 StandardContext[/examples]: Context startup failed due to previous errors
+2017-09-21 17:36:28 StandardContext[/examples]: Exception during cleanup after start failed
+LifecycleException:  Container StandardContext[/examples] has not been started
+	at org.apache.catalina.core.StandardContext.stop(StandardContext.java:3644)
+	at org.apache.catalina.core.StandardContext.start(StandardContext.java:3622)
+	at org.apache.catalina.core.ContainerBase.start(ContainerBase.java:1188)
+	at org.apache.catalina.core.StandardHost.start(StandardHost.java:738)
+	at org.apache.catalina.core.ContainerBase.start(ContainerBase.java:1188)
+	at org.apache.catalina.core.StandardEngine.start(StandardEngine.java:347)
+	at org.apache.catalina.core.StandardService.start(StandardService.java:497)
+	at org.apache.catalina.core.StandardServer.start(StandardServer.java:2190)
+	at org.apache.catalina.startup.Catalina.start(Catalina.java:512)
+	at org.apache.catalina.startup.Catalina.execute(Catalina.java:400)
+	at org.apache.catalina.startup.Catalina.process(Catalina.java:180)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:39)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:25)
+	at java.lang.reflect.Method.invoke(Method.java:585)
+	at org.apache.catalina.startup.Bootstrap.main(Bootstrap.java:203)
+
+2017-09-21 17:39:00 StandardContext[/examples]: Resources start failed:
+java.lang.IllegalArgumentException: Document base D:\111\apachetomcat4\webapps\examples does not exist or is not a readable directory
+	at org.apache.naming.resources.FileDirContext.setDocBase(FileDirContext.java:193)
+	at org.apache.catalina.core.StandardContext.resourcesStart(StandardContext.java:3343)
+	at org.apache.catalina.core.StandardContext.start(StandardContext.java:3473)
+	at org.apache.catalina.core.ContainerBase.start(ContainerBase.java:1188)
+	at org.apache.catalina.core.StandardHost.start(StandardHost.java:738)
+	at org.apache.catalina.core.ContainerBase.start(ContainerBase.java:1188)
+	at org.apache.catalina.core.StandardEngine.start(StandardEngine.java:347)
+	at org.apache.catalina.core.StandardService.start(StandardService.java:497)
+	at org.apache.catalina.core.StandardServer.start(StandardServer.java:2190)
+	at org.apache.catalina.startup.Catalina.start(Catalina.java:512)
+	at org.apache.catalina.startup.Catalina.execute(Catalina.java:400)
+	at org.apache.catalina.startup.Catalina.process(Catalina.java:180)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:39)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:25)
+	at java.lang.reflect.Method.invoke(Method.java:585)
+	at org.apache.catalina.startup.Bootstrap.main(Bootstrap.java:203)
+
+2017-09-21 17:39:00 StandardContext[/examples]: Context startup failed due to previous errors
+2017-09-21 17:39:00 StandardContext[/examples]: Exception during cleanup after start failed
+LifecycleException:  Container StandardContext[/examples] has not been started
+	at org.apache.catalina.core.StandardContext.stop(StandardContext.java:3644)
+	at org.apache.catalina.core.StandardContext.start(StandardContext.java:3622)
+	at org.apache.catalina.core.ContainerBase.start(ContainerBase.java:1188)
+	at org.apache.catalina.core.StandardHost.start(StandardHost.java:738)
+	at org.apache.catalina.core.ContainerBase.start(ContainerBase.java:1188)
+	at org.apache.catalina.core.StandardEngine.start(StandardEngine.java:347)
+	at org.apache.catalina.core.StandardService.start(StandardService.java:497)
+	at org.apache.catalina.core.StandardServer.start(StandardServer.java:2190)
+	at org.apache.catalina.startup.Catalina.start(Catalina.java:512)
+	at org.apache.catalina.startup.Catalina.execute(Catalina.java:400)
+	at org.apache.catalina.startup.Catalina.process(Catalina.java:180)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:39)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:25)
+	at java.lang.reflect.Method.invoke(Method.java:585)
+	at org.apache.catalina.startup.Bootstrap.main(Bootstrap.java:203)
+
+2017-09-21 17:42:02 StandardContext[/examples]: Resources start failed:
+java.lang.IllegalArgumentException: Document base D:\111\apachetomcat4\webapps\examples does not exist or is not a readable directory
+	at org.apache.naming.resources.FileDirContext.setDocBase(FileDirContext.java:193)
+	at org.apache.catalina.core.StandardContext.resourcesStart(StandardContext.java:3343)
+	at org.apache.catalina.core.StandardContext.start(StandardContext.java:3473)
+	at org.apache.catalina.core.ContainerBase.start(ContainerBase.java:1188)
+	at org.apache.catalina.core.StandardHost.start(StandardHost.java:738)
+	at org.apache.catalina.core.ContainerBase.start(ContainerBase.java:1188)
+	at org.apache.catalina.core.StandardEngine.start(StandardEngine.java:347)
+	at org.apache.catalina.core.StandardService.start(StandardService.java:497)
+	at org.apache.catalina.core.StandardServer.start(StandardServer.java:2190)
+	at org.apache.catalina.startup.Catalina.start(Catalina.java:512)
+	at org.apache.catalina.startup.Catalina.execute(Catalina.java:400)
+	at org.apache.catalina.startup.Catalina.process(Catalina.java:180)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:39)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:25)
+	at java.lang.reflect.Method.invoke(Method.java:585)
+	at org.apache.catalina.startup.Bootstrap.main(Bootstrap.java:203)
+
+2017-09-21 17:42:02 StandardContext[/examples]: Context startup failed due to previous errors
+2017-09-21 17:42:02 StandardContext[/examples]: Exception during cleanup after start failed
+LifecycleException:  Container StandardContext[/examples] has not been started
+	at org.apache.catalina.core.StandardContext.stop(StandardContext.java:3644)
+	at org.apache.catalina.core.StandardContext.start(StandardContext.java:3622)
+	at org.apache.catalina.core.ContainerBase.start(ContainerBase.java:1188)
+	at org.apache.catalina.core.StandardHost.start(StandardHost.java:738)
+	at org.apache.catalina.core.ContainerBase.start(ContainerBase.java:1188)
+	at org.apache.catalina.core.StandardEngine.start(StandardEngine.java:347)
+	at org.apache.catalina.core.StandardService.start(StandardService.java:497)
+	at org.apache.catalina.core.StandardServer.start(StandardServer.java:2190)
+	at org.apache.catalina.startup.Catalina.start(Catalina.java:512)
+	at org.apache.catalina.startup.Catalina.execute(Catalina.java:400)
+	at org.apache.catalina.startup.Catalina.process(Catalina.java:180)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:39)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:25)
+	at java.lang.reflect.Method.invoke(Method.java:585)
+	at org.apache.catalina.startup.Bootstrap.main(Bootstrap.java:203)
+
+2017-09-21 17:43:53 WebappLoader[/examples]: Deploying class repositories to work directory D:\111\apachetomcat4\work\Standalone\localhost\examples
+2017-09-21 17:43:53 WebappLoader[/examples]: Deploy class files /WEB-INF/classes to D:\111\apachetomcat4\webapps\examples\WEB-INF\classes
+2017-09-21 17:43:53 WebappLoader[/examples]: Reloading checks are enabled for this Context
+2017-09-21 17:43:54 ContextConfig[/examples]: Configured an authenticator for method FORM
+2017-09-21 17:43:54 StandardManager[/examples]: Seeding random number generator class java.security.SecureRandom
+2017-09-21 17:43:54 StandardManager[/examples]: Seeding of random number generator has been completed
+2017-09-21 17:43:54 ContextListener: contextInitialized()
+2017-09-21 17:43:54 SessionListener: contextInitialized()
+2017-09-21 17:43:54 StandardWrapper[/examples:default]: Loading container servlet default
+2017-09-21 17:43:54 StandardWrapper[/examples:invoker]: Loading container servlet invoker
+2017-09-21 17:44:19 WebappLoader[/examples]: Deploying class repositories to work directory D:\111\apachetomcat4\work\Standalone\localhost\examples
+2017-09-21 17:44:19 WebappLoader[/examples]: Deploy class files /WEB-INF/classes to D:\111\apachetomcat4\webapps\examples\WEB-INF\classes
+2017-09-21 17:44:19 WebappLoader[/examples]: Reloading checks are enabled for this Context
+2017-09-21 17:44:19 ContextConfig[/examples]: Configured an authenticator for method FORM
+2017-09-21 17:44:19 StandardManager[/examples]: Seeding random number generator class java.security.SecureRandom
+2017-09-21 17:44:19 StandardManager[/examples]: Seeding of random number generator has been completed
+2017-09-21 17:44:19 ContextListener: contextInitialized()
+2017-09-21 17:44:19 SessionListener: contextInitialized()
+2017-09-21 17:44:19 StandardWrapper[/examples:default]: Loading container servlet default
+2017-09-21 17:44:19 StandardWrapper[/examples:invoker]: Loading container servlet invoker
+2017-09-21 17:45:35 WebappLoader[/examples]: Deploying class repositories to work directory D:\111\apachetomcat4\work\Standalone\localhost\examples
+2017-09-21 17:45:35 WebappLoader[/examples]: Deploy class files /WEB-INF/classes to D:\111\apachetomcat4\webapps\examples\WEB-INF\classes
+2017-09-21 17:45:35 WebappLoader[/examples]: Reloading checks are enabled for this Context
+2017-09-21 17:45:35 ContextConfig[/examples]: Configured an authenticator for method FORM
+2017-09-21 17:45:35 StandardManager[/examples]: Seeding random number generator class java.security.SecureRandom
+2017-09-21 17:45:35 StandardManager[/examples]: Seeding of random number generator has been completed
+2017-09-21 17:45:35 ContextListener: contextInitialized()
+2017-09-21 17:45:35 SessionListener: contextInitialized()
+2017-09-21 17:45:35 StandardWrapper[/examples:default]: Loading container servlet default
+2017-09-21 17:45:35 StandardWrapper[/examples:invoker]: Loading container servlet invoker
+2017-09-21 17:47:11 WebappLoader[/examples]: Deploying class repositories to work directory D:\111\apachetomcat4\work\Standalone\localhost\examples
+2017-09-21 17:47:11 WebappLoader[/examples]: Deploy class files /WEB-INF/classes to D:\111\apachetomcat4\webapps\examples\WEB-INF\classes
+2017-09-21 17:47:11 WebappLoader[/examples]: Reloading checks are enabled for this Context
+2017-09-21 17:47:12 ContextConfig[/examples]: Configured an authenticator for method FORM
+2017-09-21 17:47:12 StandardManager[/examples]: Seeding random number generator class java.security.SecureRandom
+2017-09-21 17:47:12 StandardManager[/examples]: Seeding of random number generator has been completed
+2017-09-21 17:47:12 ContextListener: contextInitialized()
+2017-09-21 17:47:12 SessionListener: contextInitialized()
+2017-09-21 17:47:12 StandardWrapper[/examples:default]: Loading container servlet default
+2017-09-21 17:47:12 StandardWrapper[/examples:invoker]: Loading container servlet invoker
+2017-09-21 17:47:49 WebappLoader[/examples]: Deploying class repositories to work directory D:\111\apachetomcat4\work\Standalone\localhost\examples
+2017-09-21 17:47:49 WebappLoader[/examples]: Deploy class files /WEB-INF/classes to D:\111\apachetomcat4\webapps\examples\WEB-INF\classes
+2017-09-21 17:47:49 WebappLoader[/examples]: Reloading checks are enabled for this Context
+2017-09-21 17:47:49 ContextConfig[/examples]: Configured an authenticator for method FORM
+2017-09-21 17:47:49 StandardManager[/examples]: Seeding random number generator class java.security.SecureRandom
+2017-09-21 17:47:49 StandardManager[/examples]: Seeding of random number generator has been completed
+2017-09-21 17:47:49 ContextListener: contextInitialized()
+2017-09-21 17:47:49 SessionListener: contextInitialized()
+2017-09-21 17:47:49 StandardWrapper[/examples:default]: Loading container servlet default
+2017-09-21 17:47:50 StandardWrapper[/examples:invoker]: Loading container servlet invoker
+2017-09-21 17:51:14 WebappLoader[/examples]: Deploying class repositories to work directory D:\111\apachetomcat4\work\Standalone\localhost\examples
+2017-09-21 17:51:14 WebappLoader[/examples]: Deploy class files /WEB-INF/classes to D:\111\apachetomcat4\webapps\examples\WEB-INF\classes
+2017-09-21 17:51:14 WebappLoader[/examples]: Reloading checks are enabled for this Context
+2017-09-21 17:51:14 ContextConfig[/examples]: Configured an authenticator for method FORM
+2017-09-21 17:51:14 StandardManager[/examples]: Seeding random number generator class java.security.SecureRandom
+2017-09-21 17:51:14 StandardManager[/examples]: Seeding of random number generator has been completed
+2017-09-21 17:51:14 ContextListener: contextInitialized()
+2017-09-21 17:51:14 SessionListener: contextInitialized()
+2017-09-21 17:51:14 StandardWrapper[/examples:default]: Loading container servlet default
+2017-09-21 17:51:14 StandardWrapper[/examples:invoker]: Loading container servlet invoker
+2017-09-21 17:52:46 WebappLoader[/examples]: Deploying class repositories to work directory D:\111\apachetomcat4\work\Standalone\localhost\examples
+2017-09-21 17:52:46 WebappLoader[/examples]: Deploy class files /WEB-INF/classes to D:\111\apachetomcat4\webapps\examples\WEB-INF\classes
+2017-09-21 17:52:46 WebappLoader[/examples]: Reloading checks are enabled for this Context
+2017-09-21 17:52:46 ContextConfig[/examples]: Configured an authenticator for method FORM
+2017-09-21 17:52:46 StandardManager[/examples]: Seeding random number generator class java.security.SecureRandom
+2017-09-21 17:52:46 StandardManager[/examples]: Seeding of random number generator has been completed
+2017-09-21 17:52:46 ContextListener: contextInitialized()
+2017-09-21 17:52:46 SessionListener: contextInitialized()
+2017-09-21 17:52:46 StandardWrapper[/examples:default]: Loading container servlet default
+2017-09-21 17:52:46 StandardWrapper[/examples:invoker]: Loading container servlet invoker
+2017-09-21 17:54:19 WebappLoader[/examples]: Deploying class repositories to work directory D:\111\apachetomcat4\work\Standalone\localhost\examples
+2017-09-21 17:54:19 WebappLoader[/examples]: Deploy class files /WEB-INF/classes to D:\111\apachetomcat4\webapps\examples\WEB-INF\classes
+2017-09-21 17:54:19 WebappLoader[/examples]: Reloading checks are enabled for this Context
+2017-09-21 17:54:19 ContextConfig[/examples]: Configured an authenticator for method FORM
+2017-09-21 17:54:19 StandardManager[/examples]: Seeding random number generator class java.security.SecureRandom
+2017-09-21 17:54:19 StandardManager[/examples]: Seeding of random number generator has been completed
+2017-09-21 17:54:19 ContextListener: contextInitialized()
+2017-09-21 17:54:19 SessionListener: contextInitialized()
+2017-09-21 17:54:19 StandardWrapper[/examples:default]: Loading container servlet default
+2017-09-21 17:54:19 StandardWrapper[/examples:invoker]: Loading container servlet invoker
+2017-09-21 17:56:54 WebappLoader[/examples]: Deploying class repositories to work directory D:\111\apachetomcat4\work\Standalone\localhost\examples
+2017-09-21 17:56:54 WebappLoader[/examples]: Deploy class files /WEB-INF/classes to D:\111\apachetomcat4\webapps\examples\WEB-INF\classes
+2017-09-21 17:56:54 WebappLoader[/examples]: Reloading checks are enabled for this Context
+2017-09-21 17:56:54 ContextConfig[/examples]: Configured an authenticator for method FORM
+2017-09-21 17:56:54 StandardManager[/examples]: Seeding random number generator class java.security.SecureRandom
+2017-09-21 17:56:54 StandardManager[/examples]: Seeding of random number generator has been completed
+2017-09-21 17:56:54 ContextListener: contextInitialized()
+2017-09-21 17:56:54 SessionListener: contextInitialized()
+2017-09-21 17:56:54 StandardWrapper[/examples:default]: Loading container servlet default
+2017-09-21 17:56:54 StandardWrapper[/examples:invoker]: Loading container servlet invoker
+2017-09-21 18:00:28 WebappLoader[/examples]: Deploying class repositories to work directory D:\111\apachetomcat4\work\Standalone\localhost\examples
+2017-09-21 18:00:28 WebappLoader[/examples]: Deploy class files /WEB-INF/classes to D:\111\apachetomcat4\webapps\examples\WEB-INF\classes
+2017-09-21 18:00:28 WebappLoader[/examples]: Reloading checks are enabled for this Context
+2017-09-21 18:00:28 ContextConfig[/examples]: Configured an authenticator for method FORM
+2017-09-21 18:00:28 StandardManager[/examples]: Seeding random number generator class java.security.SecureRandom
+2017-09-21 18:00:28 StandardManager[/examples]: Seeding of random number generator has been completed
+2017-09-21 18:00:28 ContextListener: contextInitialized()
+2017-09-21 18:00:28 SessionListener: contextInitialized()
+2017-09-21 18:00:28 StandardWrapper[/examples:default]: Loading container servlet default
+2017-09-21 18:00:28 StandardWrapper[/examples:invoker]: Loading container servlet invoker
+2017-09-21 18:01:12 WebappLoader[/examples]: Deploying class repositories to work directory D:\111\apachetomcat4\work\Standalone\localhost\examples
+2017-09-21 18:01:12 WebappLoader[/examples]: Deploy class files /WEB-INF/classes to D:\111\apachetomcat4\webapps\examples\WEB-INF\classes
+2017-09-21 18:01:12 WebappLoader[/examples]: Reloading checks are enabled for this Context
+2017-09-21 18:01:13 ContextConfig[/examples]: Configured an authenticator for method FORM
+2017-09-21 18:01:13 StandardManager[/examples]: Seeding random number generator class java.security.SecureRandom
+2017-09-21 18:01:13 StandardManager[/examples]: Seeding of random number generator has been completed
+2017-09-21 18:01:13 ContextListener: contextInitialized()
+2017-09-21 18:01:13 SessionListener: contextInitialized()
+2017-09-21 18:01:13 StandardWrapper[/examples:default]: Loading container servlet default
+2017-09-21 18:01:13 StandardWrapper[/examples:invoker]: Loading container servlet invoker
+2017-09-21 18:01:49 WebappLoader[/examples]: Deploying class repositories to work directory D:\111\apachetomcat4\work\Standalone\localhost\examples
+2017-09-21 18:01:49 WebappLoader[/examples]: Deploy class files /WEB-INF/classes to D:\111\apachetomcat4\webapps\examples\WEB-INF\classes
+2017-09-21 18:01:49 WebappLoader[/examples]: Reloading checks are enabled for this Context
+2017-09-21 18:01:49 ContextConfig[/examples]: Configured an authenticator for method FORM
+2017-09-21 18:01:49 StandardManager[/examples]: Seeding random number generator class java.security.SecureRandom
+2017-09-21 18:01:49 StandardManager[/examples]: Seeding of random number generator has been completed
+2017-09-21 18:01:49 ContextListener: contextInitialized()
+2017-09-21 18:01:49 SessionListener: contextInitialized()
+2017-09-21 18:01:49 StandardWrapper[/examples:default]: Loading container servlet default
+2017-09-21 18:01:49 StandardWrapper[/examples:invoker]: Loading container servlet invoker
+2017-09-21 18:02:32 WebappLoader[/examples]: Deploying class repositories to work directory D:\111\apachetomcat4\work\Standalone\localhost\examples
+2017-09-21 18:02:32 WebappLoader[/examples]: Deploy class files /WEB-INF/classes to D:\111\apachetomcat4\webapps\examples\WEB-INF\classes
+2017-09-21 18:02:32 WebappLoader[/examples]: Reloading checks are enabled for this Context
+2017-09-21 18:02:33 ContextConfig[/examples]: Configured an authenticator for method FORM
+2017-09-21 18:02:33 StandardManager[/examples]: Seeding random number generator class java.security.SecureRandom
+2017-09-21 18:02:33 StandardManager[/examples]: Seeding of random number generator has been completed
+2017-09-21 18:02:33 ContextListener: contextInitialized()
+2017-09-21 18:02:33 SessionListener: contextInitialized()
+2017-09-21 18:02:33 StandardWrapper[/examples:default]: Loading container servlet default
+2017-09-21 18:02:33 StandardWrapper[/examples:invoker]: Loading container servlet invoker
+2017-09-21 18:03:51 WebappLoader[/examples]: Deploying class repositories to work directory D:\111\apachetomcat4\work\Standalone\localhost\examples
+2017-09-21 18:03:51 WebappLoader[/examples]: Deploy class files /WEB-INF/classes to D:\111\apachetomcat4\webapps\examples\WEB-INF\classes
+2017-09-21 18:03:51 WebappLoader[/examples]: Reloading checks are enabled for this Context
+2017-09-21 18:03:51 ContextConfig[/examples]: Configured an authenticator for method FORM
+2017-09-21 18:03:51 StandardManager[/examples]: Seeding random number generator class java.security.SecureRandom
+2017-09-21 18:03:51 StandardManager[/examples]: Seeding of random number generator has been completed
+2017-09-21 18:03:51 ContextListener: contextInitialized()
+2017-09-21 18:03:51 SessionListener: contextInitialized()
+2017-09-21 18:03:51 StandardWrapper[/examples:default]: Loading container servlet default
+2017-09-21 18:03:51 StandardWrapper[/examples:invoker]: Loading container servlet invoker

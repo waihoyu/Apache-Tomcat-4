@@ -1,0 +1,112 @@
+2017-09-21 17:43:54 WebappLoader[/admin]: Deploying class repositories to work directory D:\111\apachetomcat4\work\Standalone\localhost\admin
+2017-09-21 17:43:54 WebappLoader[/admin]: Deploy class files /WEB-INF/classes to D:\111\apachetomcat4\webapps\..\server\webapps\admin\WEB-INF\classes
+2017-09-21 17:43:54 WebappLoader[/admin]: Deploy JAR /WEB-INF/lib/struts.jar to D:\111\apachetomcat4\webapps\..\server\webapps\admin\WEB-INF\lib\struts.jar
+2017-09-21 17:43:54 ContextConfig[/admin]: Configured an authenticator for method FORM
+2017-09-21 17:43:54 StandardManager[/admin]: Seeding random number generator class java.security.SecureRandom
+2017-09-21 17:43:54 StandardManager[/admin]: Seeding of random number generator has been completed
+2017-09-21 17:43:54 StandardWrapper[/admin:default]: Loading container servlet default
+2017-09-21 17:43:55 StandardWrapper[/admin:invoker]: Loading container servlet invoker
+2017-09-21 17:44:19 WebappLoader[/admin]: Deploying class repositories to work directory D:\111\apachetomcat4\work\Standalone\localhost\admin
+2017-09-21 17:44:19 WebappLoader[/admin]: Deploy class files /WEB-INF/classes to D:\111\apachetomcat4\webapps\..\server\webapps\admin\WEB-INF\classes
+2017-09-21 17:44:19 WebappLoader[/admin]: Deploy JAR /WEB-INF/lib/struts.jar to D:\111\apachetomcat4\webapps\..\server\webapps\admin\WEB-INF\lib\struts.jar
+2017-09-21 17:44:19 ContextConfig[/admin]: Configured an authenticator for method FORM
+2017-09-21 17:44:19 StandardManager[/admin]: Seeding random number generator class java.security.SecureRandom
+2017-09-21 17:44:19 StandardManager[/admin]: Seeding of random number generator has been completed
+2017-09-21 17:44:19 StandardWrapper[/admin:default]: Loading container servlet default
+2017-09-21 17:44:20 StandardWrapper[/admin:invoker]: Loading container servlet invoker
+2017-09-21 17:45:36 WebappLoader[/admin]: Deploying class repositories to work directory D:\111\apachetomcat4\work\Standalone\localhost\admin
+2017-09-21 17:45:36 WebappLoader[/admin]: Deploy class files /WEB-INF/classes to D:\111\apachetomcat4\webapps\..\server\webapps\admin\WEB-INF\classes
+2017-09-21 17:45:36 WebappLoader[/admin]: Deploy JAR /WEB-INF/lib/struts.jar to D:\111\apachetomcat4\webapps\..\server\webapps\admin\WEB-INF\lib\struts.jar
+2017-09-21 17:45:36 ContextConfig[/admin]: Configured an authenticator for method FORM
+2017-09-21 17:45:36 StandardManager[/admin]: Seeding random number generator class java.security.SecureRandom
+2017-09-21 17:45:36 StandardManager[/admin]: Seeding of random number generator has been completed
+2017-09-21 17:45:36 StandardWrapper[/admin:default]: Loading container servlet default
+2017-09-21 17:45:37 StandardWrapper[/admin:invoker]: Loading container servlet invoker
+2017-09-21 17:47:12 WebappLoader[/admin]: Deploying class repositories to work directory D:\111\apachetomcat4\work\Standalone\localhost\admin
+2017-09-21 17:47:12 WebappLoader[/admin]: Deploy class files /WEB-INF/classes to D:\111\apachetomcat4\webapps\..\server\webapps\admin\WEB-INF\classes
+2017-09-21 17:47:12 WebappLoader[/admin]: Deploy JAR /WEB-INF/lib/struts.jar to D:\111\apachetomcat4\webapps\..\server\webapps\admin\WEB-INF\lib\struts.jar
+2017-09-21 17:47:12 ContextConfig[/admin]: Configured an authenticator for method FORM
+2017-09-21 17:47:12 StandardManager[/admin]: Seeding random number generator class java.security.SecureRandom
+2017-09-21 17:47:12 StandardManager[/admin]: Seeding of random number generator has been completed
+2017-09-21 17:47:12 StandardWrapper[/admin:default]: Loading container servlet default
+2017-09-21 17:47:13 StandardWrapper[/admin:invoker]: Loading container servlet invoker
+2017-09-21 17:47:50 WebappLoader[/admin]: Deploying class repositories to work directory D:\111\apachetomcat4\work\Standalone\localhost\admin
+2017-09-21 17:47:50 WebappLoader[/admin]: Deploy class files /WEB-INF/classes to D:\111\apachetomcat4\webapps\..\server\webapps\admin\WEB-INF\classes
+2017-09-21 17:47:50 WebappLoader[/admin]: Deploy JAR /WEB-INF/lib/struts.jar to D:\111\apachetomcat4\webapps\..\server\webapps\admin\WEB-INF\lib\struts.jar
+2017-09-21 17:47:50 ContextConfig[/admin]: Configured an authenticator for method FORM
+2017-09-21 17:47:50 StandardManager[/admin]: Seeding random number generator class java.security.SecureRandom
+2017-09-21 17:47:50 StandardManager[/admin]: Seeding of random number generator has been completed
+2017-09-21 17:47:50 StandardWrapper[/admin:default]: Loading container servlet default
+2017-09-21 17:47:51 StandardWrapper[/admin:invoker]: Loading container servlet invoker
+2017-09-21 17:51:14 WebappLoader[/admin]: Deploying class repositories to work directory D:\111\apachetomcat4\work\Standalone\localhost\admin
+2017-09-21 17:51:14 WebappLoader[/admin]: Deploy class files /WEB-INF/classes to D:\111\apachetomcat4\webapps\..\server\webapps\admin\WEB-INF\classes
+2017-09-21 17:51:14 WebappLoader[/admin]: Deploy JAR /WEB-INF/lib/struts.jar to D:\111\apachetomcat4\webapps\..\server\webapps\admin\WEB-INF\lib\struts.jar
+2017-09-21 17:51:14 ContextConfig[/admin]: Configured an authenticator for method FORM
+2017-09-21 17:51:14 StandardManager[/admin]: Seeding random number generator class java.security.SecureRandom
+2017-09-21 17:51:14 StandardManager[/admin]: Seeding of random number generator has been completed
+2017-09-21 17:51:14 StandardWrapper[/admin:default]: Loading container servlet default
+2017-09-21 17:51:15 StandardWrapper[/admin:invoker]: Loading container servlet invoker
+2017-09-21 17:52:46 WebappLoader[/admin]: Deploying class repositories to work directory D:\111\apachetomcat4\work\Standalone\localhost\admin
+2017-09-21 17:52:46 WebappLoader[/admin]: Deploy class files /WEB-INF/classes to D:\111\apachetomcat4\webapps\..\server\webapps\admin\WEB-INF\classes
+2017-09-21 17:52:46 WebappLoader[/admin]: Deploy JAR /WEB-INF/lib/struts.jar to D:\111\apachetomcat4\webapps\..\server\webapps\admin\WEB-INF\lib\struts.jar
+2017-09-21 17:52:46 ContextConfig[/admin]: Configured an authenticator for method FORM
+2017-09-21 17:52:46 StandardManager[/admin]: Seeding random number generator class java.security.SecureRandom
+2017-09-21 17:52:46 StandardManager[/admin]: Seeding of random number generator has been completed
+2017-09-21 17:52:46 StandardWrapper[/admin:default]: Loading container servlet default
+2017-09-21 17:52:47 StandardWrapper[/admin:invoker]: Loading container servlet invoker
+2017-09-21 17:54:20 WebappLoader[/admin]: Deploying class repositories to work directory D:\111\apachetomcat4\work\Standalone\localhost\admin
+2017-09-21 17:54:20 WebappLoader[/admin]: Deploy class files /WEB-INF/classes to D:\111\apachetomcat4\webapps\..\server\webapps\admin\WEB-INF\classes
+2017-09-21 17:54:20 WebappLoader[/admin]: Deploy JAR /WEB-INF/lib/struts.jar to D:\111\apachetomcat4\webapps\..\server\webapps\admin\WEB-INF\lib\struts.jar
+2017-09-21 17:54:20 ContextConfig[/admin]: Configured an authenticator for method FORM
+2017-09-21 17:54:20 StandardManager[/admin]: Seeding random number generator class java.security.SecureRandom
+2017-09-21 17:54:20 StandardManager[/admin]: Seeding of random number generator has been completed
+2017-09-21 17:54:20 StandardWrapper[/admin:default]: Loading container servlet default
+2017-09-21 17:54:21 StandardWrapper[/admin:invoker]: Loading container servlet invoker
+2017-09-21 17:56:54 WebappLoader[/admin]: Deploying class repositories to work directory D:\111\apachetomcat4\work\Standalone\localhost\admin
+2017-09-21 17:56:54 WebappLoader[/admin]: Deploy class files /WEB-INF/classes to D:\111\apachetomcat4\webapps\..\server\webapps\admin\WEB-INF\classes
+2017-09-21 17:56:54 WebappLoader[/admin]: Deploy JAR /WEB-INF/lib/struts.jar to D:\111\apachetomcat4\webapps\..\server\webapps\admin\WEB-INF\lib\struts.jar
+2017-09-21 17:56:54 ContextConfig[/admin]: Configured an authenticator for method FORM
+2017-09-21 17:56:54 StandardManager[/admin]: Seeding random number generator class java.security.SecureRandom
+2017-09-21 17:56:54 StandardManager[/admin]: Seeding of random number generator has been completed
+2017-09-21 17:56:54 StandardWrapper[/admin:default]: Loading container servlet default
+2017-09-21 17:56:55 StandardWrapper[/admin:invoker]: Loading container servlet invoker
+2017-09-21 18:00:28 WebappLoader[/admin]: Deploying class repositories to work directory D:\111\apachetomcat4\work\Standalone\localhost\admin
+2017-09-21 18:00:28 WebappLoader[/admin]: Deploy class files /WEB-INF/classes to D:\111\apachetomcat4\webapps\..\server\webapps\admin\WEB-INF\classes
+2017-09-21 18:00:28 WebappLoader[/admin]: Deploy JAR /WEB-INF/lib/struts.jar to D:\111\apachetomcat4\webapps\..\server\webapps\admin\WEB-INF\lib\struts.jar
+2017-09-21 18:00:28 ContextConfig[/admin]: Configured an authenticator for method FORM
+2017-09-21 18:00:28 StandardManager[/admin]: Seeding random number generator class java.security.SecureRandom
+2017-09-21 18:00:28 StandardManager[/admin]: Seeding of random number generator has been completed
+2017-09-21 18:00:28 StandardWrapper[/admin:default]: Loading container servlet default
+2017-09-21 18:00:29 StandardWrapper[/admin:invoker]: Loading container servlet invoker
+2017-09-21 18:01:13 WebappLoader[/admin]: Deploying class repositories to work directory D:\111\apachetomcat4\work\Standalone\localhost\admin
+2017-09-21 18:01:13 WebappLoader[/admin]: Deploy class files /WEB-INF/classes to D:\111\apachetomcat4\webapps\..\server\webapps\admin\WEB-INF\classes
+2017-09-21 18:01:13 WebappLoader[/admin]: Deploy JAR /WEB-INF/lib/struts.jar to D:\111\apachetomcat4\webapps\..\server\webapps\admin\WEB-INF\lib\struts.jar
+2017-09-21 18:01:13 ContextConfig[/admin]: Configured an authenticator for method FORM
+2017-09-21 18:01:13 StandardManager[/admin]: Seeding random number generator class java.security.SecureRandom
+2017-09-21 18:01:13 StandardManager[/admin]: Seeding of random number generator has been completed
+2017-09-21 18:01:13 StandardWrapper[/admin:default]: Loading container servlet default
+2017-09-21 18:01:14 StandardWrapper[/admin:invoker]: Loading container servlet invoker
+2017-09-21 18:01:49 WebappLoader[/admin]: Deploying class repositories to work directory D:\111\apachetomcat4\work\Standalone\localhost\admin
+2017-09-21 18:01:49 WebappLoader[/admin]: Deploy class files /WEB-INF/classes to D:\111\apachetomcat4\webapps\..\server\webapps\admin\WEB-INF\classes
+2017-09-21 18:01:49 WebappLoader[/admin]: Deploy JAR /WEB-INF/lib/struts.jar to D:\111\apachetomcat4\webapps\..\server\webapps\admin\WEB-INF\lib\struts.jar
+2017-09-21 18:01:49 ContextConfig[/admin]: Configured an authenticator for method FORM
+2017-09-21 18:01:49 StandardManager[/admin]: Seeding random number generator class java.security.SecureRandom
+2017-09-21 18:01:49 StandardManager[/admin]: Seeding of random number generator has been completed
+2017-09-21 18:01:49 StandardWrapper[/admin:default]: Loading container servlet default
+2017-09-21 18:01:50 StandardWrapper[/admin:invoker]: Loading container servlet invoker
+2017-09-21 18:02:33 WebappLoader[/admin]: Deploying class repositories to work directory D:\111\apachetomcat4\work\Standalone\localhost\admin
+2017-09-21 18:02:33 WebappLoader[/admin]: Deploy class files /WEB-INF/classes to D:\111\apachetomcat4\webapps\..\server\webapps\admin\WEB-INF\classes
+2017-09-21 18:02:33 WebappLoader[/admin]: Deploy JAR /WEB-INF/lib/struts.jar to D:\111\apachetomcat4\webapps\..\server\webapps\admin\WEB-INF\lib\struts.jar
+2017-09-21 18:02:33 ContextConfig[/admin]: Configured an authenticator for method FORM
+2017-09-21 18:02:33 StandardManager[/admin]: Seeding random number generator class java.security.SecureRandom
+2017-09-21 18:02:33 StandardManager[/admin]: Seeding of random number generator has been completed
+2017-09-21 18:02:33 StandardWrapper[/admin:default]: Loading container servlet default
+2017-09-21 18:02:34 StandardWrapper[/admin:invoker]: Loading container servlet invoker
+2017-09-21 18:03:51 WebappLoader[/admin]: Deploying class repositories to work directory D:\111\apachetomcat4\work\Standalone\localhost\admin
+2017-09-21 18:03:51 WebappLoader[/admin]: Deploy class files /WEB-INF/classes to D:\111\apachetomcat4\webapps\..\server\webapps\admin\WEB-INF\classes
+2017-09-21 18:03:51 WebappLoader[/admin]: Deploy JAR /WEB-INF/lib/struts.jar to D:\111\apachetomcat4\webapps\..\server\webapps\admin\WEB-INF\lib\struts.jar
+2017-09-21 18:03:51 ContextConfig[/admin]: Configured an authenticator for method FORM
+2017-09-21 18:03:51 StandardManager[/admin]: Seeding random number generator class java.security.SecureRandom
+2017-09-21 18:03:51 StandardManager[/admin]: Seeding of random number generator has been completed
+2017-09-21 18:03:51 StandardWrapper[/admin:default]: Loading container servlet default
+2017-09-21 18:03:52 StandardWrapper[/admin:invoker]: Loading container servlet invoker

@@ -1,0 +1,10 @@
+2017-09-27 13:38:18 WebappLoader[/examples]: Deploying class repositories to work directory D:\Tomcat4Source\Apache-Tomcat-4\work\Standalone\localhost\examples
+2017-09-27 13:38:18 WebappLoader[/examples]: Deploy class files /WEB-INF/classes to D:\Tomcat4Source\Apache-Tomcat-4\webapps\examples\WEB-INF\classes
+2017-09-27 13:38:18 WebappLoader[/examples]: Reloading checks are enabled for this Context
+2017-09-27 13:38:18 ContextConfig[/examples]: Configured an authenticator for method FORM
+2017-09-27 13:38:18 StandardManager[/examples]: Seeding random number generator class java.security.SecureRandom
+2017-09-27 13:38:18 StandardManager[/examples]: Seeding of random number generator has been completed
+2017-09-27 13:38:18 ContextListener: contextInitialized()
+2017-09-27 13:38:18 SessionListener: contextInitialized()
+2017-09-27 13:38:18 StandardWrapper[/examples:default]: Loading container servlet default
+2017-09-27 13:38:18 StandardWrapper[/examples:invoker]: Loading container servlet invoker
